@@ -103,11 +103,11 @@ La validación se realiza mediante una expresión regular y comparaciones simples.
 
 ![Diseño del Programa](Imagen/captura01.jpg "Diseño")
 
-![No coincide la contraseña](Imagen/captura02.jpg "Diseño")
+![No coincide la contraseña](Imagen/captura02.jpg "No coincide la contraseña")
 
-![La contraseña no cumple los requisitos](Imagen/captura03.jpg "Diseño")
+![La contraseña no cumple los requisitos](Imagen/captura03.jpg "La contraseña no cumple los requisitos")
 
-![Mensaje de Exito de Validacion](Imagen/captura04.jpg "Diseño")
+![Mensaje de Exito de Validacion](Imagen/captura04.jpg "Mensaje de Exito de Validacion")
 
 
 
