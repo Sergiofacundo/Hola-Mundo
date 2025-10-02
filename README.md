@@ -101,5 +101,13 @@ La validación se realiza mediante una expresión regular y comparaciones simples.
 #### Se anexa imagenes de la ejecucion del codigo :
     
 
-![Captura](Imagen/captura01.jpg "Captura")
+![Diseño del Programa](Imagen/captura01.jpg "Diseño")
+
+![No coincide la contraseña](Imagen/captura02.jpg "Diseño")
+
+![La contraseña no cumple los requisitos](Imagen/captura03.jpg "Diseño")
+
+![Mensaje de Exito de Validacion](Imagen/captura04.jpg "Diseño")
+
+
 
